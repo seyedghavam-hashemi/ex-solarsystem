@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
      <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>    
-</head>
+
 <style type="text/css">
 	body {
 		font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -41,7 +41,7 @@
 
 
 </style>
-
+</head>
 <body>
 	<h1>Our Solar System</h1>
 	<img src="Planets2008.jpg" align="right" id="planets">
